@@ -1,0 +1,21 @@
+{
+    "os": "Linux-5.11.0-36-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.11",
+    "heartbeatAt": "2021-09-24T03:31:20.931419",
+    "startedAt": "2021-09-24T03:31:19.382509",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-a737a8d5-816d-4fe7-8595-ea812251775e.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/SubReddit-Clf",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/home/indika/anaconda3/bin/python"
+}
